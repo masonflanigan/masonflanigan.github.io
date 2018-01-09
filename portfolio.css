@@ -1,0 +1,67 @@
+#wrapper {
+	width: 1200px;
+	height: 5000px;
+	margin: 0 auto;
+	background-color: white;
+	
+	}
+#header {
+width:1200px;
+height: 300px;
+background-color: #4f4425;
+color: white;
+font-family: Freestyle Script;
+font-size: 40px;
+padding-top:7px;
+}
+#toplink{
+width:px;
+height:75px;
+background-color:#9c8138;
+color: white;
+float:left;
+padding-left: 425px;
+padding-right: 425px;
+padding-top:50px;
+font-size: 25px;
+}
+#content{ 
+
+width:1170px;
+height: 1470px;
+background-color:#d1bd86;
+font-size: 28px;
+font-family: Times New Roman;
+padding: 15px;
+}
+#info{
+color:white;
+}
+#moral{
+font-size:45px;
+color:red;
+}
+#pic{
+padding-top: 100px;
+width:1170px;
+height: 1095px;
+background-color:#d1bd86;
+font-size: 28px;
+font-family: Times New Roman;
+padding: 15px;}
+#bottomlink {
+width:px;
+height:75px;
+background-color:#9c8138;
+color: white;
+float:left;
+padding-left: 425px;
+padding-right: 425px;
+padding-top:50px;
+font-size: 25px;
+}
+#footer{
+width:1200px;
+height: 500px;
+background-color: #4f4425;
+}
